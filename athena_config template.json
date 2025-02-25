@@ -1,0 +1,10 @@
+{
+    "s3_bucket" : "<data_s3_bucket_name>",
+    "s3_aws_key_id" : "",
+    "s3_aws_secret_key" : "",
+    "aws_region": "us-east-1",
+    "weather_data": "taxi_data.view_selected_weather_data",
+    "taxi_data" : "taxi_data.yellow_taxi_2010_2020",
+    "athena_results_bucket": "s3://<my_athena_results_bucket>/"
+   
+}
